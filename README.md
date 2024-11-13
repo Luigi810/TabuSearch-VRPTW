@@ -18,3 +18,5 @@ where
  * **vehicle_capacity** is a number defining the capacity of the vehicles of the problem instance (in Solomon Benchmarks is allways 200)
  * **#customers** is the number of customers in the problem (the project could be simply modified to get this number during the reading of the data from the problem .txt file)
 
+## Results
+For the R1 benchmarks the program has been tested on the instances R101, R102 and R103(for this last one results are not shown in the pdf file) for the instances with 25, 50 and 100 customers and the values of the error gaps (in percentage) obtained using as initial solution simple_init or greedy_init are similar and oscillate between 19% and 35%.
