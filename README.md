@@ -11,7 +11,8 @@ First you should decide which algorithm to use for the initial solution between 
 
 After that the program should be launched as follows (Usage): 
 
-``` python TabuSearchVRPTW_v1.3.py <input_file.txt> <vehicle_capacity> <#customers>
+```
+python TabuSearchVRPTW_v1.3.py <input_file.txt> <vehicle_capacity> <#customers>
 ```
 
 where 
